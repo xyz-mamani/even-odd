@@ -1,0 +1,6 @@
+name: even_odd
+description: A command line application.
+version: 0.0.1
+
+environment:
+  sdk: ^3.3.0
