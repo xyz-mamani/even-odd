@@ -1,7 +1,1 @@
-String evenOdd(int number) {
-  if (number % 2 == 0) {
-    return 'Even';
-  } else {
-    return 'Odd';
-  }
-}
+String evenOdd(int number) => number % 2 == 0 ? 'Even' : 'Odd';
